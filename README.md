@@ -18,7 +18,7 @@ Tableau desktop . Jupyter Notebook .
 
 #### Tableau
 
-[Story Visual Link] 
+[Story Visual Link](https://public.tableau.com/app/profile/ling7171/viz/NYCCitiBikeChallenge_16642622322050/NYCCityBike)
 
 ## Results
 
